@@ -9,6 +9,12 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "sharp": "^0.34.5",
     "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "tone": "^15.1.22",
+    "vite-plugin-pwa": "^1.2.0",
+    "webmidi": "^3.1.14"
   }
 }
